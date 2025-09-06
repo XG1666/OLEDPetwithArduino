@@ -12,3 +12,11 @@ It's an arduino project, which uses OLED to show animations like an e-pet.
 ### Written Function  
 **drawEyes()** : draw a pair of motionless eyes  
 ![drawEyes](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink1.jpg)  
+**blinkEyes()** : blink eyes  
+![blink](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink1.jpg)
+![blink](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink2.jpg)
+![blink](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink3.jpg)
+![blink](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink4.jpg)
+![blink](https://github.com/XG1666/OLEDPetwithArduino/blob/main/Eyes/Animations/Blink/blink5.jpg)  
+
+**to be continued...**
